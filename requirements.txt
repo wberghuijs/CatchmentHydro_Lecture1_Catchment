@@ -5,3 +5,5 @@ scipy
 seaborn 
 geopandas
 ipywidgets 
+mpld3
+pysheds
