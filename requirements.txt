@@ -1,1 +1,7 @@
-.
+pandas
+matplotlib
+numpy
+scipy
+seaborn 
+geopandas
+ipywidgets 
