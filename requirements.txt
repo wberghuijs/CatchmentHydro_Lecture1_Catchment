@@ -6,4 +6,4 @@ seaborn
 geopandas
 ipywidgets 
 mpld3
-pysheds
+pysheds==0.3.3
